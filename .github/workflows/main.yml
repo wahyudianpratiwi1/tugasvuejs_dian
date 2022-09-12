@@ -36,3 +36,4 @@ jobs:
         with:
             GITHUB_TOKEN: ${{secrets.APP_KEY}}
             BRANCH: gh-pages
+            FOLDER: dist 
